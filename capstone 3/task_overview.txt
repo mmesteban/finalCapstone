@@ -1,0 +1,6 @@
+Number of tasks generated and tracked: 4
+Tasks completed:                       1
+Tasks not completed:                   3
+Tasks not completed and overdue:       3
+% of tasks not completed:              75.0%
+% of tasks overdue:                    75.0%

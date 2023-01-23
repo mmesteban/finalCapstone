@@ -1,0 +1,19 @@
+The number of users registered is 4
+Number of tasks generated and tracked: 4
+___________________________________________________________________________
+___________User 'admin':___________
+User admin has been assigned 3 tasks
+User admin has been assigned 75.0% of all tasks.
+User admin has completed 0.0% of his assigned tasks.
+User admin must still complete 100.0% of his assigned tasks.
+User admin has  100.0% of his assigned tasks overdue.
+___________User 'lolo':___________
+User lolo has been assigned 0 tasks
+___________User 'lelo':___________
+User lelo has been assigned 0 tasks
+___________User 'marta':___________
+User marta has been assigned 1 tasks
+User marta has been assigned 25.0% of all tasks.
+User marta has completed 100.0% of his assigned tasks.
+User marta must still complete 0.0% of his assigned tasks.
+User marta has  0.0% of his assigned tasks overdue.

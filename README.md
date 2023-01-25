@@ -9,6 +9,8 @@ Repo for the final capstones of the  Hyperion Dev bootcamp
 3. [Capstone 3: Lists, Functions, and String Handling](#capstone-3-lists-functions-and-string-handling)
 4. [Capstone 4: Object Oriented Programming](#capstone-4-object-oriented-programming)
 5. [Capstone 5: Databases ](#capstone-5-databases)
+6. [usage](#usage)
+7. [Credits](#credits)
 
 
 
@@ -159,3 +161,20 @@ The program presents the user with the following menu:
 0. Exit
 
 Each of these functions is implemented in a single method. There is a really cool one to manage and validate user's input im specially proud of. Hope you like it!
+
+## Usage
+
+The use of the programs is fairly simple, and all interaction is made throught text interfaces and inputs like the following: 
+
+<center>
+<img src="img/genericProgramWorking.png"
+     alt="generic image of the program working"
+      /><br/>
+<em>Generic image of a menu in the programs</em>
+</center>
+
+<br/>
+
+## Credits
+
+All the project capstones were coded by me with assistance of extensive google searching. 
